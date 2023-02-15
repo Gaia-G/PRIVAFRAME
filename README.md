@@ -25,3 +25,5 @@ Once the email copy of the license agreement has been received, you will receive
 
 For additional informations, please contact the authors.
 
+Please, cite the paper if you use the resource: Gambarelli, G.; Gangemi, A. PRIVAFRAME: A Frame-Based Knowledge Graph for Sensitive Personal Data. Big Data Cogn. Comput. 2022, 6, 90. https://doi.org/10.3390/bdcc6030090.
+
