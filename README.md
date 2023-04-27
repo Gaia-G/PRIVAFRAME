@@ -1,4 +1,23 @@
 # PRIVAFRAME
+
+If you use the resource, please cite the work in your paper: Gambarelli, G.; Gangemi, A. PRIVAFRAME: A Frame-Based Knowledge Graph for Sensitive Personal Data. Big Data Cogn. Comput. 2022, 6, 90. https://doi.org/10.3390/bdcc6030090.
+
+```
+@Article{bdcc6030090,
+AUTHOR = {Gambarelli, Gaia and Gangemi, Aldo},
+TITLE = {PRIVAFRAME: A Frame-Based Knowledge Graph for Sensitive Personal Data},
+JOURNAL = {Big Data and Cognitive Computing},
+VOLUME = {6},
+YEAR = {2022},
+NUMBER = {3},
+ARTICLE-NUMBER = {90},
+URL = {https://www.mdpi.com/2504-2289/6/3/90},
+ISSN = {2504-2289},
+DOI = {10.3390/bdcc6030090}
+}
+```
+
+
 Script to run PRIVAFRAME on FRED and analyze your sensitive data
 
 The python script can be executed in order to analyze your sentitive data.
@@ -24,6 +43,4 @@ Attachments: the document of agreement signed for the parts of the licensee.
 Once the email copy of the license agreement has been received, you will receive the PRIVAFRAME code and the labeled dataset.
 
 For additional informations, please contact the authors.
-
-Please, cite the paper if you use the resource: Gambarelli, G.; Gangemi, A. PRIVAFRAME: A Frame-Based Knowledge Graph for Sensitive Personal Data. Big Data Cogn. Comput. 2022, 6, 90. https://doi.org/10.3390/bdcc6030090.
 
